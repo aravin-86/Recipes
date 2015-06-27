@@ -18,7 +18,7 @@ Prerequisites:
 By default, system is configured with 12 recipes. If you want to change the total recipes in system to test multiple scenarios. 
 Please use the following command below.
 
-  mvn clean jetty:run -DtotalRecipes=<your-total-recipes-to-be-configured-in-system>
+  mvn clean jetty:run -DtotalRecipes=(your-total-recipes-to-be-configured-in-system)
   
   Ex:
   mvn clean jetty:run -DtotalRecipes=0
