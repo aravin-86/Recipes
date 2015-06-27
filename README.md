@@ -1,14 +1,14 @@
 
-
 #Recipes Web Application 
 -------------------------
-
-##Instructions to run in Terminal(For Ex: COMMAND PROMPT)
--------------------------------
 
 ####Prerequisites:
  1. JRE 1.7
  2. Maven 3
+ 
+##Instructions to run in Terminal
+---------------------------------
+(For Ex: COMMAND PROMPT)
 
 1. Move into your project folder.
 2. Run Maven command given below.
@@ -24,20 +24,19 @@ Please use the following command below.
   `mvn clean jetty:run -DtotalRecipes=0`
 
 ##Instructions to run in IDE
----------------------------
+----------------------------
 1. Setup the project into your preferred IDE.
 2. Run maven commands as instructed above.
 
 ##Features Implemented
---------------------
+----------------------
 1. recipe_list.feature
 
 ##Features to be Implemented
----------------------------
+----------------------------
 1. recipe.feature
 2. filter_recipes.feature
 3. star.feature
-
 
 Hope you made it through with these instructions.
 
