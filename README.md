@@ -18,7 +18,7 @@
 
 3. After server is started, please hit the following URL in Chrome or Firefox Browser.
 
-   [http://localhost:8080/FoodCo/Recipes/]
+   [http://localhost:8080/FoodCo/Recipes/](http://localhost:8080/FoodCo/Recipes/)
    
 By default, system is configured with 12 recipes. If you want to change the total recipes in system to test multiple scenarios. 
 Please use the following command below.
