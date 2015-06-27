@@ -6,22 +6,22 @@
 ##Instructions to run in Terminal(For Ex: COMMAND PROMPT)
 -------------------------------
 
-Prerequisites:
+####Prerequisites:
  1. JRE 1.7
  2. Maven 3
 
 1. Move into your project folder.
 2. Run Maven command given below.
 
-   'mvn clean jetty:run'
+   `mvn clean jetty:run`
 
 By default, system is configured with 12 recipes. If you want to change the total recipes in system to test multiple scenarios. 
 Please use the following command below.
 
-  'mvn clean jetty:run -DtotalRecipes=(your-total-recipes-to-be-configured-in-system)'
+  `mvn clean jetty:run -DtotalRecipes=(your-total-recipes-to-be-configured-in-system)`
   
   Ex:
-  'mvn clean jetty:run -DtotalRecipes=0'
+  `mvn clean jetty:run -DtotalRecipes=0`
 
 ##Instructions to run in IDE
 ---------------------------
