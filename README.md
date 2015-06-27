@@ -5,6 +5,7 @@
 ####Prerequisites:
  1. JRE 1.7
  2. Maven 3
+ 3. Download this project into your system.
  
 ##Instructions to run in Terminal
 ---------------------------------
