@@ -1,7 +1,7 @@
 
- -------------------------
-| #Recipes Web Application |
- -------------------------
+
+#Recipes Web Application 
+-------------------------
 
 ##Instructions to run in Terminal(For Ex: COMMAND PROMPT)
 -------------------------------
