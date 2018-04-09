@@ -2,6 +2,16 @@
 #Recipes Web Application 
 -------------------------
 
+###Technologies/Frameworks/Libraries Used
+---------------------------------------
+1. Java
+2. Spring MVC
+3. Angular JS
+4. Angular UI Boostrap
+5. Bootstrap CSS
+6. Mockito & JUnit
+7. HTML
+
 ####Prerequisites:
  1. JRE 1.7
  2. Maven 3
@@ -45,15 +55,6 @@ Please use the following command below.
 
 Hope you made it through with these instructions.
 
-###Technologies/Frameworks/Libraries Used
----------------------------------------
-1. Java
-2. Spring MVC
-3. Angular JS
-4. Angular UI Boostrap
-5. Bootstrap CSS
-6. Mockito & JUnit
-7. HTML
 
 --- END ----
    
